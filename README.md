@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/YungKingJayy/Product-Preview-Card-Component](https://github.com/YungKingJayy/Product-Preview-Card-Component)
+- Live Site URL: [https://productpreviewcomponent.netlify.app/](https://productpreviewcomponent.netlify.app/)
 
 ### Built with
 
